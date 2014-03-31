@@ -17,4 +17,4 @@
   * [SubPage3](subpage/page3.md)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](lumen)
+[gimmick:theme (inverse: true)](lumen)
