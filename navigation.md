@@ -1,4 +1,6 @@
-# YourPageTitle
+[gimmick:theme](lumen)
+
+# Salim Virani
 
 [Page1](page1.md)
 [Page2](page2.md)
