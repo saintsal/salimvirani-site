@@ -60,9 +60,7 @@ Here's a quick list of tools I've made that I find I share pretty often.  Feel f
 
 ## Accelerator Design
 
-[Accelerator Design Guide](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide.md)
-
-[Accelerator Design Guide - notes and to-do](https://github.com/FounderCentric/guide-accelerator-design/blob/master/Accelerator%20Design%20Guide%20TODO.md)
+[Accelerator Design Guide](http://guides.co/guide/the-accelerator-design-guide)
 
 [Programme Design Cards](https://dl.dropboxusercontent.com/u/6606104/Founder-Centric%20Public/Program%20design%20cards%20-%20Dec%202013.pdf)
 
